@@ -1,4 +1,8 @@
-<h1 align="center">Olá, eu sou o Thiago Felix 👋</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThiagoFelix22/ThiagoFelix22/main/assets/banner.svg" alt="Thiago Felix, Desenvolvedor Front-End" width="100%" />
+</p>
+
+<h2 align="center">Olá, eu sou o Thiago 👋</h2>
 
 <p align="center">
   <b>Desenvolvedor Front-End</b> em formação, focado em <b>React</b> e <b>TypeScript</b>.<br/>
